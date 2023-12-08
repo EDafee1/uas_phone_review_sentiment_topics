@@ -48,7 +48,7 @@ values = [st.session_state.len_pos, st.session_state.len_neg]
 
 fig1, ax1 = plt.subplots()
 ax1.pie(values, labels=labels, autopct='%1.1f%%', startangle=90, textprops={'color':"w", 'fontsize':18}, 
-        colors=['purple', 'red'])
+        colors=['purple', 'crimson'])
 ax1.axis('equal')
 fig1.patch.set_alpha(0.0)
 col3.pyplot(fig1)
