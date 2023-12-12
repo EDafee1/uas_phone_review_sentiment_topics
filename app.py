@@ -53,7 +53,6 @@ ax1.axis('equal')
 fig1.patch.set_alpha(0.0)
 col3.pyplot(fig1)
 
-
 try:
     col_pos.write('Positive Result')
     col_pos.dataframe(st.session_state.pos)
