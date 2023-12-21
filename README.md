@@ -2,3 +2,7 @@
   <h1><strong>Sentiment Analysis and Topic Modelling with Phone Reviews Dataset</strong></h1>
   <h2 align="center">Information Retrieval Subject</h2>
 </div>
+
+<div id="content">
+  <img src="https://img.shields.io/badge/Kaggle-blue"/>
+</div>
