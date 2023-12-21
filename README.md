@@ -4,7 +4,7 @@
 </div>
 
 <div id="content">
-  - This is the dataset : [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat)](https://www.kaggle.com/datasets/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones)
+  - This is the dataset :
   <a href="https://www.kaggle.com/datasets/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones"
     <img src="https://img.shields.io/badge/Kaggle-blue"/>
   </a>
