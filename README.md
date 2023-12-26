@@ -10,3 +10,5 @@
   - NLTK is used for the sentiment analysis process.
   - BERTopic is used for the topic modeling process.
   - The output is positive topics and negative topics from the dataset reviews.
+- Mean accuracy is 78.65%
+- You can find the department here : [![Streamlit Badge](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://edafee1-uas-phone-review-sentiment-topics-app-0fllrg.streamlit.app/)
